@@ -1,0 +1,7 @@
+azure-functions
+pandas
+numpy
+lxml
+sqlalchemy
+mysql.connector
+load_dotenv
